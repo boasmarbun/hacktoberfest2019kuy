@@ -27,3 +27,8 @@
 - Lokasi: Bandung
 - Bio: Masih kuliah, lagi UTS
 - Bidang: Frontend
+
+#### Nama: [Kevin Nathaniel Wijaya](https://github.com/kevin2000141)
+- Lokasi: Bandung
+- Bio: Masih kuliah, sedang belajar React JS dan Java Backend
+- Bidang: Fullstack
