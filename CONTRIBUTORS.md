@@ -22,3 +22,8 @@
 - Lokasi: Bandung
 - Bio: Masih kuliah, sedang belajar vue
 - Bidang: Frontend
+
+#### Nama: [Johanes Boas Badia](https://github.com/boasmarbun)
+- Lokasi: Bandung
+- Bio: Masih kuliah, lagi UTS
+- Bidang: Frontend
